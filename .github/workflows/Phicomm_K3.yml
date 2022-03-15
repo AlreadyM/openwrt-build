@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build phicomm_K3
+name: Build Phicomm_K3
 on:
   repository_dispatch:
   workflow_dispatch:
