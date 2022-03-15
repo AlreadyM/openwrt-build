@@ -1,10 +1,13 @@
-**English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+**English**
+
+# Thanks P3terx & esirplayground.
+# First, thanks to P3terx and Esirplayground! Without their tutorials and guidance, cannot complete the actions for this repository.
 
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/AlreadyM/openwrt-build.svg?style=flat-square&label=Stars&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/AlreadyM/openwrt-build.svg?style=flat-square&label=Forks&logo=github)
 
 A template for building OpenWrt with GitHub Actions
 
@@ -26,6 +29,8 @@ A template for building OpenWrt with GitHub Actions
 
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
+- [P3TERX](https://github.com/P3TERX/Actions-OpenWrt)
+- [esirplayground](https://github.com/esirplayground/AutoBuild-OpenWrt)
 - [OpenWrt](https://github.com/openwrt/openwrt)
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
 - [tmate](https://github.com/tmate-io/tmate)
@@ -41,4 +46,4 @@ A template for building OpenWrt with GitHub Actions
 
 ## License
 
-[MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
+[MIT]
